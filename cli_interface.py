@@ -1,6 +1,6 @@
 import os
 import numpy as np
-import windrow as wd
+import widrow as wd
 
 def interface():
     os.system( 'cls' if os.name == 'nt' else 'clear')
